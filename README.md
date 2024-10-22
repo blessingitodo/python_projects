@@ -25,6 +25,7 @@ Sal’s Shippers has several different options for a customer to ship their pack
 * Ground Shipping, which is a small flat charge plus a rate based on the weight of your package.
 * Ground Shipping Premium, which is a much higher flat charge, but you aren’t charged for weight.
 * Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
+
 ![Screenshot 2024-10-22 062059](https://github.com/user-attachments/assets/1bf7f493-ddc3-4f16-8bfa-9120de164924)
 
 ## **Gradebook**
@@ -36,6 +37,7 @@ This project organizes the below subjects and corresponding grades using lists a
 
 ## **Len's Slice**
 This project uses Python lists to organize sales data for Len's Slice pizza shop
+
 ![Screenshot 2024-10-22 063406](https://github.com/user-attachments/assets/5e5e6368-d9bc-45ee-8d76-1829910517f0)
 
 
