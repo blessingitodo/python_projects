@@ -27,3 +27,30 @@ Sal’s Shippers has several different options for a customer to ship their pack
 * Drone Shipping (new), which has no flat charge, but the rate based on weight is triple the rate of ground shipping.
 ![Screenshot 2024-10-22 062059](https://github.com/user-attachments/assets/1bf7f493-ddc3-4f16-8bfa-9120de164924)
 
+## **Gradebook**
+This project organizes the below subjects and corresponding grades using lists and lists functions
+* physics - 98
+* calculus - 97
+* poetry - 85
+* history - 88
+
+## **Len's Slice**
+This project uses Python lists to organize sales data for Len's Slice pizza shop
+![Screenshot 2024-10-22 063406](https://github.com/user-attachments/assets/5e5e6368-d9bc-45ee-8d76-1829910517f0)
+
+
+## **Carly's Clippers**
+This project analyzes data for Carly's Clippers air salon. Objective is to calculate important metrics that Carly can use to plan out the operation of the business for the rest of the month using loops to iterate through the lists. The below lists have been provided for analysis: 
+* hairstyles: the names of the cuts offered at Carly’s Clippers.
+* prices: the price of each hairstyle in the hairstyles list.
+* last_week: the number of purchases for each hairstyle type in the last week.
+Each index in hairstyles corresponds to an associated index in prices and last_week.
+
+## **Physics Class**
+Tis project provides students with User-Defined functions that will help tem calculated som fundamental pysical properties
+
+## **Highlighted Poems**
+A number of poems ave been highlighted in one string, highlighted_poems. This project parses the string, into something that can display the name, title, and publication date of the ighlighted poems
+
+## **Thread Shed**
+Thread Sed is a local sewing hobby shop. This project uses string methods, loops, conditional statements and  user-defined functions to clean the data for Thread Shed's outdated register. The transaction information is stored in one huge string called daily_sales. All day, for each transaction, the name of the customer, amount spent, types of thread purchased, and the date of sale is all recorded in this same string. The goal is to iterate through this string and clean up each transaction and store all the information in easier-to-access lists.
