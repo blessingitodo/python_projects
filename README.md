@@ -56,3 +56,9 @@ A number of poems ave been highlighted in one string, highlighted_poems. This pr
 
 ## **Thread Shed**
 Thread Sed is a local sewing hobby shop. This project uses string methods, loops, conditional statements and  user-defined functions to clean the data for Thread Shed's outdated register. The transaction information is stored in one huge string called daily_sales. All day, for each transaction, the name of the customer, amount spent, types of thread purchased, and the date of sale is all recorded in this same string. The goal is to iterate through this string and clean up each transaction and store all the information in easier-to-access lists.
+
+## **Time Traveler's Toolkit**
+This project creates a Python scrip to simulate the experience of time travel using various Python modules. The goal is to build a custom module, then work with dates and times, perform precise calculateds, implement random selection features, and finally generate a personalized time travel message. 
+
+## **Scrabble**
+This project processes data from a group of friends playing scrabble. The goal is to use dictionaries and other concepts learned so far to organize players, words, and points. 
